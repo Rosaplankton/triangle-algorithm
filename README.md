@@ -12,7 +12,10 @@ Be sure to switch to the python mode, when you execute the given codes in Proces
 
 
 
-##Code-Beispiele
+##triangle stripes
+
+![](images/a.png) ![](images/b.png)  ![](images/c.png)
+
 ```python
 outsideRadius = 150
 insideRadius = 100
