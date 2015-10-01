@@ -7,7 +7,6 @@ Be sure to switch to the python mode, when you execute the given codes in Proces
 
 ##triangle in circle
 ![](images/1.png) ![](images/2.png)  ![](images/3.png)
-
 ```python
 wdth=500
 hght=500
@@ -28,10 +27,8 @@ def setup():
     x = wdth / 2
     y = hght / 2
 
-    
 def draw() :
-
-     
+ 
     numPoints = int(map(mouseX, 0, width, 6, 60))
     angle = 109
     angleStep = 360.0 / numPoints
@@ -50,16 +47,15 @@ def draw() :
         angle *= angleStep*100
     endShape()
 
-
+def mousePressed():
+    redraw()
+```
 
 
 
 
 ##triangle stripes
-
 ![](images/a.png) ![](images/b.png)  ![](images/c.png)
-
-#the code
 ```python
 outsideRadius = 150
 insideRadius = 100
