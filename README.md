@@ -1,6 +1,16 @@
 # triangle-algorithm
-coming soon
-abc
+##You'll need
+- [Processing 2.2.1](https://processing.org/)
+- [Python Mode for Processing](https://github.com/jdf/processing.py)
+
+Be sure to switch to the python mode, when you execute the given codes in Processing.
+
+##triangle in circle
+![](images/1.png) ![](images/2.png)  ![](images/3.png)
+
+
+
+
 
 ##Code-Beispiele
 ```python
