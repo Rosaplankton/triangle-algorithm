@@ -1,4 +1,8 @@
 # triangle-algorithm
+
+You can easily change the parameters angle and angleStep in both codes.
+
+
 ##You'll need
 - [Processing 2.2.1](https://processing.org/)
 - [Python Mode for Processing](https://github.com/jdf/processing.py)
