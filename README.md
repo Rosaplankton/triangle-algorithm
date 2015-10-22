@@ -1,9 +1,26 @@
-# triangle-algorithm
+# triangle algorithm
 
+From analog to digtial algorithm. Our first exercise was to create a precise written drawing instruction, so that 10 people could implement it. Afterwards we analyzed the results, to improve the instructions and to try out different parameters. Finally we translated our concept in to a digital format by using Processing in python mode. This little project could be used as tool to design indivual jewelry or icons.
+#analog algorithm
+#1
+###instructions:
+![](images/algo3.png)
+#2
+###instructions:
+![](images/drei.png)
+#3
+![](images/triangle4.png)
+![](images/triangle1.png)
+
+#digital algorithm
+
+
+
+
+
+#triangle stripe
 You can easily change the parameters angle and angleStep in both codes.
-
-
-##You'll need
+##you'll need
 - [Processing 2.2.1](https://processing.org/)
 - [Python Mode for Processing](https://github.com/jdf/processing.py)
 
