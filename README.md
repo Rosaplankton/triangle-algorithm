@@ -18,14 +18,15 @@ pick out one pencil, with whom you will draw the following instructions
 - starting now from the center of the sheet, draw a jagged line in the 4 corners of the sheet
 
 - stop drawing
-####the result
+#####the result
 ![](images/algo3.png)
+
 #2
 
-####material
+#####material
 white paper triangle,colored pencils (green, black)	
 
-####instructions
+#####instructions
 
 1.to execute the following instructions you have 5min.
 
@@ -48,9 +49,9 @@ white paper triangle,colored pencils (green, black)
 10.stop drawing
 ![](images/drei.png)
 #3
-####material
+#####material
 grey cardboard triangel, colored pencils(red, green,yellow,blue,white)
-####instructions
+#####instructions
 1.put the triangle in front of you, so that the rectangular corner points to the top
 
 2.pick out the white pencil an draw in each corner a cricle of a random size
@@ -68,7 +69,7 @@ grey cardboard triangel, colored pencils(red, green,yellow,blue,white)
 
 
 
-####the result
+#####the result
 ![](images/triangle4.png)
 ![](images/triangle1.png)
 
