@@ -3,12 +3,69 @@
 From analog to digtial algorithm. Our first exercise was to create a precise written drawing instruction, so that 10 people could implement it. Afterwards we analyzed the results, to improve the instructions and to try out different parameters. Finally we translated our concept in to a digital format by using Processing in python mode. This little project could be used as tool to design indivual jewelry or icons.
 #analog algorithm
 #1
-###instructions:
+
+#####material
+A4 paper sheet, pencils(no matter what color)
+#####instructions
+- put the papersheet in horizontally front of you and
+pick out one pencil, with whom you will draw the following instructions
+
+
+- startin from the left top corner of the sheet, draw a wormed line 
+
+
+- stop drawing this line when reaching the center of the sheet
+- starting now from the center of the sheet, draw a jagged line in the 4 corners of the sheet
+
+- stop drawing
+####the result
 ![](images/algo3.png)
 #2
-###instructions:
+####material
+white paper triangle,colored pencils (green, black)	
+####instructions
+
+1.to execute the following instructions you have 5min.
+
+2.the trangle lies in front of you
+
+3.the rectangle corner of the triangle is on the top, the base should be horizontally in front of you
+
+4.pick out the black pencil
+
+5.start from the triangles left side
+
+6.every time you have to begin from the base to draw 5 vertical lines as long as your thumb
+
+7.after drawing the 5th line, by using the same pencil, put on top of each line a circle
+
+8.afterwards use the green pencil instead of the black
+
+9.repeat successively step 6. and 7. starting from the right side of the triangle
+
+10.stop drawing
 ![](images/drei.png)
 #3
+####material
+grey cardboard triangel, colored pencils(red, green,yellow,blue,white)
+
+1. put the triangle in front of you, so that the rectangular corner points to the top
+
+2. pick out the white pencil an draw in each corner a cricle of a random size
+3.hatch the circles with your favorite color
+
+4.define with a point the center of each circle
+
+5.to get a new triangle,link the centers by using the white pencil again
+
+6.crosshatch the new triangle with the pencil you like least
+
+7.in the new triangle, you repeat in the same order, step 2 to 6 until there is no space for circles
+ 
+
+####instructions
+
+####the result
 ![](images/triangle4.png)
 ![](images/triangle1.png)
 
