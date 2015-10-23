@@ -48,7 +48,7 @@ white paper triangle,colored pencils (green, black)
 #3
 ####material
 grey cardboard triangel, colored pencils(red, green,yellow,blue,white)
-
+####instructions
 1.put the triangle in front of you, so that the rectangular corner points to the top
 
 2.pick out the white pencil an draw in each corner a cricle of a random size
@@ -64,7 +64,7 @@ grey cardboard triangel, colored pencils(red, green,yellow,blue,white)
 7.in the new triangle, you repeat in the same order, step 2 to 6 until there is no space for circles
  
 
-####instructions
+
 
 ####the result
 ![](images/triangle4.png)
