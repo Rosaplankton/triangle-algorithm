@@ -21,8 +21,10 @@ pick out one pencil, with whom you will draw the following instructions
 ####the result
 ![](images/algo3.png)
 #2
+
 ####material
 white paper triangle,colored pencils (green, black)	
+
 ####instructions
 
 1.to execute the following instructions you have 5min.
