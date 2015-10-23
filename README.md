@@ -49,9 +49,10 @@ white paper triangle,colored pencils (green, black)
 ####material
 grey cardboard triangel, colored pencils(red, green,yellow,blue,white)
 
-1. put the triangle in front of you, so that the rectangular corner points to the top
+1.put the triangle in front of you, so that the rectangular corner points to the top
 
-2. pick out the white pencil an draw in each corner a cricle of a random size
+2.pick out the white pencil an draw in each corner a cricle of a random size
+
 3.hatch the circles with your favorite color
 
 4.define with a point the center of each circle
